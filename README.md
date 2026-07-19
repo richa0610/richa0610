@@ -12,65 +12,75 @@
 
 Java Web Developer focused on building scalable, secure, backend-driven applications with clean, maintainable code.
 
-I work at the intersection of: Backend architecture, REST API design, and Database-driven applications.
+I work at the intersection of:
 
----
+- Backend architecture
+- - REST API design
+  - - Database-driven applications
+   
+    - ---
 
-## Focus Areas
+    ## Focus Areas
 
-### Backend
+    ### Backend
 
-Spring Boot application development, Hibernate and Spring Data JPA, REST API design with validation and layered architecture, MySQL database design.
+    - Spring Boot application development
+    - - Hibernate and Spring Data JPA
+      - - REST API design with validation and layered architecture
+        - - MySQL database design
+         
+          - ### Frontend
+         
+          - - HTML, CSS, JavaScript fundamentals
+            - - Building responsive UI for full-stack projects
+             
+              - ### Testing and Tooling
+             
+              - - Unit testing with JUnit and Mockito
+                - - Maven build management
+                 
+                  - ---
 
-### Frontend
+                  ## Tech Stack
 
-HTML, CSS, JavaScript fundamentals. Building responsive UI for full-stack projects.
+                  ![](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,git,maven)
 
-### Testing and Tooling
+                  ---
 
-Unit testing with JUnit and Mockito. Maven build management.
+                  ## Selected Work
 
----
+                  ### Student Management System
 
-## Tech Stack
+                  Backend application built with Java, Spring Boot, Hibernate, and MySQL, REST APIs for CRUD operations on student records with validation and layered architecture.
+                  https://github.com/richa0610/StudentManagementSystem
 
-![](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,git,maven)
+                  ### Library Management System
 
----
+                  Built using Spring Boot, Hibernate, Spring Data JPA, Maven, JUnit, and Mockito, book management, member management, and book issue/return operations via REST APIs.
+                  https://github.com/richa0610/Library-Management-system
 
-## Selected Work
+                  ### Job Portal
 
-### Student Management System
+                  A job portal application.
+                  https://github.com/richa0610/job_portal
 
-Backend application built with Java, Spring Boot, Hibernate, and MySQL, REST APIs for CRUD operations on student records with validation and layered architecture.
-https://github.com/richa0610/StudentManagementSystem
+                  ### Amazon Clone
 
-### Library Management System
+                  An e-commerce front-end clone project.
+                  https://github.com/richa0610/amazon-clone
 
-Built using Spring Boot, Hibernate, Spring Data JPA, Maven, JUnit, and Mockito, book management, member management, and book issue/return operations via REST APIs.
-https://github.com/richa0610/Library-Management-system
+                  ### Portfolio
 
-### Job Portal
+                  Personal portfolio website.
+                  https://github.com/richa0610/portfolio
 
-A job portal application.
-https://github.com/richa0610/job_portal
+                  ---
 
-### Amazon Clone
+                  ## Philosophy
 
-An e-commerce front-end clone project.
-https://github.com/richa0610/amazon-clone
+                  Write code that works, code that lasts, and code that others can build on.
 
-### Portfolio
+                  ---
 
-Personal portfolio website.
-https://github.com/richa0610/portfolio
-
----
-
-## Philosophy
-
-Write code that works, code that lasts, and code that others can build on.
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=richa0610&style=flat-square&color=1118278)
+                  ![Profile Views](https://komarev.com/ghpvc/?username=richa0610&style=flat-square&color=1118278)
+                  
