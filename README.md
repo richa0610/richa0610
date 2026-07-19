@@ -20,15 +20,24 @@ I work at the intersection of: Backend architecture, REST API design, and Databa
 
 ### Backend
 
-Spring Boot application development, Hibernate and Spring Data JPA, REST API design with validation and layered architecture, MySQL database design.
+. Spring Boot application development
+. Hibernate and Spring Data JPA
+. REST API design with validation 
+. layered architecture and
+. MySQL database design.
 
 ### Frontend
 
-HTML, CSS, JavaScript fundamentals. Building responsive UI for full-stack projects.
+. HTML
+. CSS
+. JavaScript fundamentals
+. Building responsive UI for full-stack projects.
 
 ### Testing and Tooling
 
-Unit testing with JUnit and Mockito. Maven build management.
+. Unit testing with JUnit 
+. Mockito
+. Maven build management.
 
 ---
 
@@ -42,7 +51,7 @@ Unit testing with JUnit and Mockito. Maven build management.
 
 ### Student Management System
 
-Backend application built with Java, Spring Boot, Hibernate, and MySQL, REST APIs for CRUD operations on student records with validation and layered architecture.
+Backend application built with Java, Spring Boot, Hibernate, and MySQL, REST APIs for CRUD operations on student records with  validation and layered architecture.
 https://github.com/richa0610/StudentManagementSystem
 
 ### Library Management System
