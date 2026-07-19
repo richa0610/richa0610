@@ -2,9 +2,9 @@
 
 [![](https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=ffffff&vCenter=true&width=600&lines=Java+Web+Developer;Building+Scalable+%26+Secure+Applications;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;Clean+Code+%26+Problem+Solving)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richa-katiyar-8873202a6/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/katiyar1086)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rich_a_06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richa-katiyar-8873202a6/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/katiyar1086)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rich_a_06)
 
 ---
 
